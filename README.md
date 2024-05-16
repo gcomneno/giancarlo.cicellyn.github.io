@@ -22,7 +22,7 @@ Contributions to improve the portfolio are welcome! If you spot any issues, have
 
 ## Contacts
 
-You could contact me by  email at [giancarlo.cicellyn@gmail.com](mailto:giancarlo.cicellyn@gmail.com) o seguirmi su:
+You could contact me by :
 
 - <i class="fab fa-linkedin"></i> [LinkedIn](https://www.linkedin.com/in/giancarlo-cicellyn-comneno-970697276/)
 

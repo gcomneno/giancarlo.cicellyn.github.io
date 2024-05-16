@@ -8,7 +8,7 @@ function loadContent(url, targetId) {
 }
 
 // Carica la navigazione
-loadContent('/navigation.html', 'navigation');
+loadContent('/partials/navigation.html', 'navigation');
 
 // Carica il footer
-loadContent('/footer.html', 'footer');
+loadContent('/partials/footer.html', 'footer');

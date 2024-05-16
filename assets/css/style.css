@@ -1,0 +1,146 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    background-color: #f4f4f4;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+header, footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
+
+h1 {
+    margin: 0;
+}
+
+main {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.section {
+    margin-bottom: 30px;
+}
+
+.section h2 {
+    border-bottom: 2px solid #333;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+    font-size: 24px;
+    color: #333;
+}
+
+.contact-info p {
+    margin-bottom: 10px;
+}
+
+#privacy {
+    font-size: 14px;
+    color: #666;
+    line-height: 1.5;
+    margin-bottom: 20px;
+}
+
+#privacy a {
+    color: #007bff; /* colore dei link */
+    text-decoration: none;
+    font-weight: bold;
+}
+
+#privacy a:hover {
+    text-decoration: underline;
+}
+
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline-block;
+    margin-right: 20px; /* Spazio tra gli elementi della lista */
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: yellow;
+    font-weight: bold;
+}
+
+nav ul li a:hover {
+    color: blue; /* Cambia colore al passaggio del mouse */
+}
+
+.education {
+    margin-bottom: 30px;
+}
+
+.education h2 {
+    margin-bottom: 10px;
+}
+
+.education p {
+    margin-top: 0;
+}
+
+.languages {
+    margin-top: 30px;
+}
+
+.skills {
+    margin-bottom: 30px;
+}
+
+.skills h2 {
+    margin-bottom: 10px;
+}
+
+.skills p {
+    margin-top: 0;
+}
+
+.notes {
+    margin-bottom: 30px;
+}
+
+.notes h2 {
+    margin-bottom: 10px;
+}
+
+.notes p {
+    margin-top: 0;
+}
+
+.download-btn {
+    display: inline-block;
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+.download-btn:hover {
+    background-color: #0056b3;
+}

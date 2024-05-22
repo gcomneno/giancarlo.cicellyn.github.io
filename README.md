@@ -4,7 +4,7 @@ Welcome to the portfolio of Giancarlo Cicellyn Comneno!
 
 ## Overview
 
-This repository serves as the online portfolio for Giancarlo Cicellyn Comneno, showcasing his contact information, professional experiences, and education. The portfolio is hosted on GitHub Pages and can be accessed at [giancarlo.cicellyn.github.io](https://giancarlo.cicellyn.it).
+This repository serves as the online portfolio for Giancarlo Cicellyn Comneno, showcasing his contact information, professional experiences, and education. The portfolio is hosted on GitHub Pages and can be accessed at [giancarlo.cicellyn.github.io](https://giancarlo.cicellyn.github.io).
 
 ## Features
 
@@ -14,7 +14,7 @@ This repository serves as the online portfolio for Giancarlo Cicellyn Comneno, s
 
 ## Usage
 
-Feel free to explore the portfolio by visiting [giancarlo.cicellyn.github.io](https://giancarlo.cicellyn.it). Navigate through the different sections to learn more about Giancarlo's contact information, professional experiences, and education.
+Feel free to explore the portfolio by visiting [giancarlo.cicellyn.github.io](https://giancarlo.cicellyn.github.io). Navigate through the different sections to learn more about Giancarlo's contact information, professional experiences, and education.
 
 ## Contributing
 
